@@ -4,24 +4,11 @@
   
   
   <entry>
-    <title>6Yezine</title>
-    <link href="/2023/09/08/6Yezine/"/>
-    <url>/2023/09/08/6Yezine/</url>
-    
-    <content type="html"><![CDATA[]]></content>
-    
-    
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>Hello World</title>
+    <title>个人介绍</title>
     <link href="/2023/09/08/hello-world/"/>
     <url>/2023/09/08/hello-world/</url>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">小林的代码世界</a>! </p><h3 id="个人介绍"><a href="#个人介绍" class="headerlink" title="个人介绍"></a>个人介绍</h3><p>​       本人的情况比较特殊，当前修读的是计算机科学与技术第二学士学位。第一专业为经管学院行政管理，主修<strong>宏微观经济学，商法学，管理学</strong>、商务数据分析与可视化、现代管理技术与方法、管理信息系统、公文写作与处理、演讲与口才、创新管理思维训练、劳动法学、行政法学、医疗保险、情商管理、危机管理与风险控制、西方经济学等等，绩点排名前25％，第一专业期间参加过挑战杯，最高荣誉省赛金奖。当前专业绩点排名前20%，暑期曾前往亿榕信息技术公司实习（非技术岗，时长2月）。本人的编程能力较差，但是一直在努力学习，希望和大家一起快乐学习，一起进步！</p><h3 id="技能与成就"><a href="#技能与成就" class="headerlink" title="技能与成就"></a>技能与成就</h3><p><strong>个人历程：</strong>计算机科学与技术在读，曾任温泉数理化工作室新媒体运营岗位，负责公众号运营、文案创作与软文推广等工作。</p><p><strong>专业能力：</strong>计算机+管理专业复合背景，熟悉 MATLAB、Python、Ps、PR 等，能运用各类新型工具，高效完成各类工作。</p><p><strong>综合品质：</strong>逻辑思维缜密且执行力强，在项目中培养了较强的人际交往、沟通协调和应变能力，可承担较强的工作压力。</p><p><strong>荣誉奖项（部分）</strong>：</p><p><strong>2020.11</strong> 全国大中专学生志愿者暑期三下乡社会实践镜头中的三下乡“优秀视频团队”荣誉(国家级)</p><p><strong>2020.12</strong> 第十一届“挑战杯”福建省大学生创业计划竞赛“金奖”荣誉（省级）</p><p><strong>2020.09</strong> 第三届善行八闽—公益慈善项目大赛“组织奖”荣誉（省级）</p><p><strong>2021.09</strong> 福州大学综合二等奖学金 </p><p><strong>2021.05</strong> 福州大学“优秀学生干部”荣誉</p><p><strong>2020.12</strong> 福州大学学生志愿者暑期文化科技卫生三下乡社会实践活动“先进个人”荣誉</p><p><strong>2020.05</strong> 福州大学“优秀共青团干部”荣誉； </p><p><strong>2019.06</strong> 福州大学企业经营模拟沙盘校赛 C 组中获“三等奖”荣誉</p><p><strong>2018.11</strong> 福州大学经济与管理学院新生辩论赛中获“第一名”荣誉</p><h3 id="爱好与倾向"><a href="#爱好与倾向" class="headerlink" title="爱好与倾向"></a>爱好与倾向</h3><p>大A忠实用户：<img src="C:\Users\叶子呢\blogg\source_posts\img\image-20230908230530217.png" alt="image-20230908230530217"></p><p>生活记录员：<img src="C:\Users\叶子呢\blogg\source_posts\img\image-20230908230629607.png" alt="image-20230908230629607"><img src="C:\Users\叶子呢\blogg\source_posts\img\image-20230908230655571.png" alt="image-20230908230655571"><img src="C:\Users\叶子呢\blogg\source_posts\img\image-20230908230755424.png" alt="image-20230908230755424"></p><p>运动建身狂热粉：<img src="C:\Users\叶子呢\blogg\source_posts\img\image-20230908230741466.png" alt="image-20230908230741466"></p><h3 id="发展设想"><a href="#发展设想" class="headerlink" title="发展设想"></a>发展设想</h3><p>​        主线考公，但同时热爱技术岗、产品经理或运营相关工作岗位，也愿意在相关领域长期发展。</p>]]></content>
     
     
     
